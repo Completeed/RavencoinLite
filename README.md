@@ -1,7 +1,7 @@
 RavencoinLite Core integration/staging tree
 =====================================
 
-https://ravencoinlite.org
+https://ravencoinlite.info
 
 What is RavencoinLite?
 ----------------
@@ -13,7 +13,7 @@ out collectively by the network. RavencoinLite Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the RavencoinLite Core software, see https://ravencoinlite.org
+the RavencoinLite Core software, see https://ravencoinlite.info
 
 License
 -------
